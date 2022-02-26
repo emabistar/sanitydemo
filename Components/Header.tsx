@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import React from 'react';
 
-function Header() {
+export default function Header() {
     return (
         <header className="flex justify-between p-5">
 
@@ -31,4 +31,3 @@ function Header() {
     )
 }
 
-export default Header
