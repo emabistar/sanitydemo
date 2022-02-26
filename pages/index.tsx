@@ -26,6 +26,7 @@ export default function Home({ posts }: Props) {
       <Head>
         <title>Medium Blog</title>
         <link rel="icon" href="/favicon.ico" />
+        {/* <script src="https://cdn.tailwindcss.com"></script> */}
       </Head>
       <Header />
       <div className="flex justify-between  items-center
