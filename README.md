@@ -1,8 +1,9 @@
 
-![alt text](https://github.com/emabistar/sanitydemo/post-2.png.png)
+![alt text](https://github.com/emabistar/sanitydemo/blob/1a256bf03c3595a559125fae1d4a7abb9470e448/post3.png)
 
-![alt text](https://github.com/emabistar/sanitydemo/post-2.png.png)
+![alt text](https://github.com/emabistar/sanitydemo/blob/1a256bf03c3595a559125fae1d4a7abb9470e448/post1.png)
 
+![alt text](https://github.com/emabistar/sanitydemo/blob/1a256bf03c3595a559125fae1d4a7abb9470e448/post-2.png)
 
 
 # Next.js + Tailwind CSS Example
